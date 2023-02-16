@@ -1,13 +1,13 @@
+# Type of change
+
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (feature that would cause existing functionality to not work as expected)
+
 # Description
 
 Please include a summary of the changes and the related issue (if any), for example, "Fixes # (issue)".
 Please also include relevant motivation and context.
 List any dependencies that are required for this change.
-
-## Type of change
-
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (feature that would cause existing functionality to not work as expected)
 
 # Steps to test
 

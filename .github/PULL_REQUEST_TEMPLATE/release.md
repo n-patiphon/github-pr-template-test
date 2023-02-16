@@ -1,3 +1,8 @@
+# Type of change
+
+- [ ] Regular release (packaging of changes, i.e., features and fixes, in a predetermined releasing cycle)
+- [ ] Hotfix release (packaging of hotfixes)
+
 # Description
 
 Please include a summary of the changes and the related issue (if any), for example, "Fixes # (issue)".
