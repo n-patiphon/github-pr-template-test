@@ -1,13 +1,13 @@
+# Type of change
+
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] Breaking change (fix that would cause existing functionality to not work as expected)
+
 # Description
 
 Please include a summary of the changes and the related issue (if any), for example, "Fixes # (issue)".
 Please also include relevant motivation and context.
 List any dependencies that are required for this change.
-
-## Type of change
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] Breaking change (fix that would cause existing functionality to not work as expected)
 
 # Steps to test
 
